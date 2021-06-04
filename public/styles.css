@@ -53,3 +53,7 @@ tr:nth-child(even) {
 .contaienr {
   background-color: rgb(59, 59, 197);
 }
+
+.jumbotron {
+  background-color: blue;
+}
